@@ -1,19 +1,17 @@
 #include <iostream>
-//in this program i will be calculating rising sea lvls throughout the years
+//i will be getting the average of 5 values in this program
 int main()
 {
-    std::cout<<"Rising Sea Lvls\n";
-    const double LEVEL= 1.5;
-    double y1= 5;
-    double y2= 7;
-    double y3= 10;
-    double rising1= y1*LEVEL;
-    double rising2= y2*LEVEL;
-    double rising3= y3*LEVEL;
-    std::cout<<"The rising sea level for year 5 is "<<rising1<<"\n";
-    std::cout<<"The rising sea level for year 7 is "<<rising2<<"\n";
-    std::cout<<"The rising sea level for year 10 is "<<rising3<<"\n";
-    
+    std::cout<<"Average of 5 values\n";
+    double num1= 28;
+    double num2= 32;
+    double num3= 37;
+    double num4= 24;
+    double num5= 33;
+    double sum= num1+num2+num3+num4+num5;
+    double average= (num1+num2+num3+num4+num5)/5;
+    std::cout<<"The sum of these numbers is "<<sum<<"\n";
+    std::cout<<"The average of these numbers is "<<average<<"\n";
 
     return 0;
 }
