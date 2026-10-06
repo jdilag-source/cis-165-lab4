@@ -9,3 +9,5 @@ The average calculation had to be divided by the completed sum and not the final
 Now for the ocean lvls program is calculated by multiplying 1.5 to however many years. So for year 5 the calculation would be 5 times 1.5.
 The annual lvl rate is a good candidate because its a number that doesn't change which is basically a constant.
 We need to store calculations in cout because you usually want to use the result more thamn once and cout just prints a value.
+
+I will add the things I changed down here.
