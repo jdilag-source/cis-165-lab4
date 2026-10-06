@@ -1,5 +1,5 @@
 This is the new version of my average. This time using "sum/5" like you asked. 
-Oh and this is my random numbers. I also changed the other calculation program in "average.cpp" using "sum/5"
+I also changed the other calculation program in "average.cpp" using "sum/5"
 #include <iostream>
 //i will be getting the average of 5 values in this program
 int main()
