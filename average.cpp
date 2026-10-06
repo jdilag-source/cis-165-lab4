@@ -15,3 +15,4 @@ int main()
 
     return 0;
 }
+//The sum of all these numbers combine is 154 and the average is 30.8.
