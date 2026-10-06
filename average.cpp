@@ -15,22 +15,3 @@ int main()
 
     return 0;
 }
-
-
-#include <iostream>
-//i will be getting the average of 5 values in this program
-int main()
-{
-    std::cout<<"Average of 5 values\n";
-    double num1= 30;
-    double num2= 40;
-    double num3= 50;
-    double num4= 60;
-    double num5= 70;
-    double sum= num1+num2+num3+num4+num5;
-    double average= (num1+num2+num3+num4+num5)/5;
-    std::cout<<"The sum of these numbers is "<<sum<<"\n";
-    std::cout<<"The average of these numbers is "<<average<<"\n";
-
-    return 0;
-}
