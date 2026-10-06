@@ -17,3 +17,6 @@ int main()
 
     return 0;
 }
+//The result for year 5 is 7.5
+//The result for year 7 is 10.5
+//The result for year 10 is 15
