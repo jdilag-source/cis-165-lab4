@@ -9,7 +9,7 @@ int main()
     double num4= 24;
     double num5= 33;
     double sum= num1+num2+num3+num4+num5;
-    double average= (num1+num2+num3+num4+num5)/5;
+    double average= sum/5;
     std::cout<<"The sum of these numbers is "<<sum<<"\n";
     std::cout<<"The average of these numbers is "<<average<<"\n";
 
